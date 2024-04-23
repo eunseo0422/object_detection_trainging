@@ -8,7 +8,8 @@ python xml_to_csv.py -i [PATH_TO_IMAGES_FOLDER]/test -o [PATH_TO_ANNOTATIONS_FOL
 """
 #modifed by Prof. Kim 2024. 03. 22
 #modified by EunEeoBack 2024. 04. 17
-#test 2024. 04. 18
+#//////////////////test//////////////////
+#24.04.23.10:37
 
 import os
 import glob
